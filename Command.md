@@ -1,3 +1,4 @@
+https://code.tutsplus.com/using-celery-with-django-for-background-task-processing--cms-28732t
 python -m venv env
 pip install Django
 django-admin startproject quick_publisher
